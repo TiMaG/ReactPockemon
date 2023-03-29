@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactPockemon/static/css/main.ff42eccc.css",
+    "main.js": "/ReactPockemon/static/js/main.e808eefb.js",
+    "index.html": "/ReactPockemon/index.html",
+    "main.ff42eccc.css.map": "/ReactPockemon/static/css/main.ff42eccc.css.map",
+    "main.e808eefb.js.map": "/ReactPockemon/static/js/main.e808eefb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff42eccc.css",
+    "static/js/main.e808eefb.js"
+  ]
+}
